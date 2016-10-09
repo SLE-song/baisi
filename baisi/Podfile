@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+target ’baisi’ do
+
+pod 'DACircularProgress'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'SVProgressHUD'
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'DOUAudioStreamer'
+pod 'NJKWebViewProgress'
+
+end
